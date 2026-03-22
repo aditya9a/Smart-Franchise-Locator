@@ -93,7 +93,7 @@ graph TD
 ---
 
 ## 👨‍💻 Author
-**[Your Name]**
+Aditya Srivastava
 Full-Stack Developer | MERN Enthusiast
 
 ---
